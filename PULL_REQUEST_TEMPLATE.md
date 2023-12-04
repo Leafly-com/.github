@@ -11,10 +11,20 @@
   * What tradeoffs did you make in deciding how to address this change? What alternative implementation(s) did you consider?
   * What are you unsure of that might need specific review?
   * Does this change need a release plan?
-  * What risks are there to merging this code, and what testing have you done to mitigate this risk?
   * Does this change introduce tech debt that will need to be addressed in the future? (Who will do that work?)
 
   Remember: a good description will make your proposed change easier to review, and provides a valuable documentation artifact.
+-->
+
+### Testing Plan
+
+<!--
+  Think a bit about how this is (and/or will be) tested:
+  * Have the tests that you've updated adequately cover the code changes?
+  * Will there be additional testing required after this is deployed?
+  * What risks are there to merging this code, and what have you done to mitigate this risk?
+
+  Record your thoughts here.
 -->
 
 ## Ticket
