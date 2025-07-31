@@ -20,6 +20,7 @@
 
 <!--
   Think a bit about how this is (and/or will be) tested:
+  * Will the reviewer of this pull request need to manually test anything? What steps should they take? What are the pertinent pages or endpoints?
   * Have the tests that you've updated adequately cover the code changes?
   * Will there be additional testing required after this is deployed?
   * What risks are there to merging this code, and what have you done to mitigate this risk?
